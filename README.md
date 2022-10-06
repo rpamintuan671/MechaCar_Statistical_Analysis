@@ -19,7 +19,7 @@ The MechaCar dataset of mpg was tested on 50 prototype cars. The MechaCar protot
 
 
 ### Results: 
-> * Based on the Linear regression model there are two values that would have a high level of significance in predicting the mpg of MechaCar prototypes. The vehicle_length and ground_clearance are the variables with a p-value less than 0.05 to several powers. The only other variable that is close to 0.05 is the vehicle_weight. The p-value 0.0776 is not considered significant but should be included in the consideration for mpg since it is so close.
+> * The variables that provide a non-random amount of variance to the mpg values in the dataset are vehicle length and ground clearance.
 > * The slope of the linear model would be considered as zero due to it being a incredibly small decimal.
 > * The linear model predicts mpg of MechaCar prototypes effectively 71% of the time, as the R-squared value is 0.7149.
 
