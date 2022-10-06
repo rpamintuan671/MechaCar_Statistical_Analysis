@@ -22,7 +22,6 @@ The MechaCar dataset of mpg was tested on 50 prototype cars. The MechaCar protot
 > * The linear model predicts mpg of MechaCar prototypes effectively 71% of the time, as the R-squared value is 0.7149.
 
 
-
 ## Summary Statistics on Suspension Coils
 
 In the MechaCar Suspension_Coil.csv dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
