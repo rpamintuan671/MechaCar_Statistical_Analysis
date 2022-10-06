@@ -57,7 +57,8 @@ T-tests were performed to determine if the PSI across all manufacturing lots and
 
 ### Results: 
 > * Across all manufacturing lots, the PSI is not statistically different from the population mean of 1,500 pounds per square inch, as the p value of 0.06028 is higher than 0.05, which indicates strong evidence for maintaining the null hypothesis.
-> * The PSI for manufacturing Lots 1 and 2 are not statistically different, as the respective p-values of 1 and 0.06072 are higher than 0.05. The PSI for Lot 3 is statistically different, as the p-value of 0.04168 is below 0.05, which indicates strong evidence for rejecting the null hypothesis.
+> * The PSI for manufacturing Lots 1 and 2 are not statistically different, as the respective p-values of 1 and 0.06072 are higher than 0.05. 
+> * The PSI for Lot 3 is statistically different, as the p-value of 0.04168 is below 0.05, which indicates strong evidence for rejecting the null hypothesis.
 
 ## Study Design: MechaCar vs Competition
 When comparing MechaCar to its competitor’s other metrics that could be of interest to a consumer could include cost, car color, city fuel efficiency, highway fuel efficiency, horsepower, maintenance cost, or safety rating.
