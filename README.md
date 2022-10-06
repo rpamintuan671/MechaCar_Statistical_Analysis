@@ -4,8 +4,6 @@
 AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. An analysis was completed using R programming language to determine issues with AutosRUs' manufacturing.
 
 
-### Analysis
-
 ## Resources
 > * Languages: R
 > * Tools: tidyverse, ggplot2, Rstudio, MS Excel
